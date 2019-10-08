@@ -8,7 +8,7 @@ import java.io.IOException;
 public class Leitura {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		int somaTotal=0;
-		BufferedReader br = new BufferedReader(new FileReader("numbers2.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("numbers.txt"));
 		
 		while(br.ready()){
 			String linha = br.readLine();
