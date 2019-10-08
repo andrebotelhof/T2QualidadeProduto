@@ -16,7 +16,7 @@ public class Leitura {
 			somaTotal += Integer.parseInt(numbers[2]);
 		}
 		br.close();
-		System.out.println("A soma toal da 3ª coluna é de: "+somaTotal);
+		System.out.println("A soma toal da 3 coluna e de: "+somaTotal);
 		
 	}
 }
