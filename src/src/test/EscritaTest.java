@@ -3,8 +3,8 @@ package src.test;
 import static org.junit.Assert.assertTrue;
 
 import java.io.File;
-
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+//import org.junit.jupiter.api.Test;
 
 import src.main.Escrita;
 
