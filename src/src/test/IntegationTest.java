@@ -1,15 +1,8 @@
 package src.test;
 
-import static org.junit.Assert.assertTrue;
-import org.junit.Test;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 
-//import org.junit.jupiter.api.Test;
-
+import org.junit.Test;
 import src.main.Escrita;
 import src.main.Leitura;
 
